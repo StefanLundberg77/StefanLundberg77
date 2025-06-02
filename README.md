@@ -3,7 +3,7 @@ Programming / AI Student
 
 Aspiring developer currently studying Object-Oriented Programming with AI at NBI/Handelsakademin in Gothenburg.
 
-With a background in leadership, operations, and service management, I am now transitioning into the tech industry, aiming to establish myself as a developer with a particular interest in back-end and full-stack development.
+With a background in leadership, operations, and service management, I am now transitioning into the IT industry, aiming to establish myself as a developer with a particular interest in back-end and full-stack development.
 
 Scheduled to graduate in June 2026, I will complete two practical training periods (LiA – Learning in Work) beforehand, with the goal of acquiring industry experience and enhancing my technical and analytical skills.
 
