@@ -27,7 +27,7 @@ Scheduled to graduate in June 2026, I will complete two practical training perio
 Python, C#, SQL, JavaScript
 
 **Data Engineering & Analytics:**  
-Pandas, NumPy, Matplotlib, Plotly, Streamlit, DuckDB, Dbeaver, dltHub, dbt, Microsoft SQL Server, Dagster, LLM, Api's, Snowflake 
+Pandas, NumPy, Matplotlib, Plotly, Streamlit, DuckDB, Dbeaver, dltHub, dbt, Microsoft SQL Server, Dagster, LLM, Api's, Snowflake, Scikit_learn 
 
 **Web Development:**  
 HTML5, CSS3, .NET
