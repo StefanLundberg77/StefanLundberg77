@@ -18,7 +18,8 @@ Scheduled to graduate in June 2026, I will complete two practical training perio
 | Agile Project Management  | Project structures using Scrum and Kanban methodologies. | Scrum, Kanban |
 | AI 1 - Python Basics      | File handling, NumPy, Pandas, Matplotlib for data preparation and visualization. | Python, NumPy, Pandas, Matplotlib |
 | AI 2 - Data Engineering (ongoing) | ETL/ELT processes, data pipelines, regression, clustering, and tools like Docker and TensorFlow. | Python, SQL, Docker |
-
+| Objektorienterad programmering - advanced 1  |
+| Objektsorienterad Programmering - advanced 2  | RAG 
 ---
 
 ## Technical Skills
