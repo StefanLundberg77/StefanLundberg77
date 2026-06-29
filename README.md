@@ -1,53 +1,41 @@
 # Stefan Lundberg
-Programming / AI Student
+**Software Developer & AI Developer**
 
-Aspiring developer currently studying Object-Oriented Programming with AI at NBI/Handelsakademin in Gothenburg.
+I am a creative software developer specializing in backend engineering, object-oriented system design, and AI integrations (such as Retrieval-Augmented Generation / RAG). I combine a background in operational leadership with deep technical skills in C#/.NET, Python, and Unity.
 
-With a background in leadership, operations, and service management, I am now transitioning into the IT industry, aiming to establish myself as a developer with a particular interest in back-end and full-stack development.
-
-Scheduled to graduate in June 2026, I will complete two practical training periods (LiA – Learning in Work) beforehand, with the goal of acquiring industry experience and enhancing my technical and analytical skills.
+🎓 **Education:** Object-Oriented Programming with AI at NBI/Handelsakademin in Gothenburg (Graduated June 2026).
 
 ---
 
-## Courses
+## 💼 Key Developer Experiences (LIA)
 
-| Course Name              | Description | Skills |
-| ------------------------- | ----------- | ------ |
-| OOP Fundamentals          | Core concepts of OOP (encapsulation, inheritance, polymorphism, generics), error handling, UI creation, file handling, version control. | C#, OOP, Git |
-| Databases                 | Design, creation, and management of relational databases using SQL and Azure. | SQL, Data Modeling |
-| Agile Project Management  | Project structures using Scrum and Kanban methodologies. | Scrum, Kanban |
-| AI 1 - Python Basics      | File handling, NumPy, Pandas, Matplotlib for data preparation and visualization. | Python, NumPy, Pandas, Matplotlib |
-| AI 2 - Data Engineering (ongoing) | ETL/ELT processes, data pipelines, regression, clustering, and tools like Docker and TensorFlow. | Python, SQL, Docker |
-| Objektorienterad programmering - advanced 1  |
-| Objektsorienterad Programmering - advanced 2  | RAG 
----
-
-## Technical Skills
-
-**Programming & Scripting:**  
-Python, C#, SQL, JavaScript
-
-**Data Engineering & Analytics:**  
-Pandas, NumPy, Matplotlib, Plotly, Streamlit, DuckDB, Dbeaver, dltHub, dbt, Microsoft SQL Server, Dagster, LLM, Api's, Snowflake, Scikit_learn 
-
-**Web Development:**  
-HTML5, CSS3, .NET
-
-**Cloud & Deployment:**  
-Microsoft Azure, Docker (basic knowledge)
-
-**Tools & Version Control:**  
-Git, GitHub, Visual Studio, Visual Studio Code, Spyder IDE
+*   **LIA 2: Full-stack & AI Developer @ Orbislinks** (Nov 2025 – Feb 2026)
+    *   Developed a B2P2P marketplace MVP (KYC and transaction flows) and designed a new Career Page.
+    *   Co-developed a RAG-chatbot agent using company APIs, airport portals (Swedavia/Aena), and web search fallbacks.
+    *   *Tech stack:* Python, Flask, React, MySQL, Docker, Nginx, WSL2.
+    
+*   **LIA 1: Game Developer @ Northhack Media** (Feb 2025 – Apr 2025)
+    *   Optimized multiplayer network synchronization (client prediction, smoothing) and thread-safe projectile pooling for *Oxide Arena*.
+    *   *Tech stack:* Unity Engine, C#, Game Design, Physics Sync.
 
 ---
 
-## Other Skills
+## 🛠️ Technical Skills
 
-Reaper DAW, Cubase DAW
+*   **Programming Languages:** Python, C#, SQL (SQLite, MySQL, SQL Server), JavaScript, TypeScript, HTML5, CSS3
+*   **Backend & Web Development:** .NET Core / .NET 8, FastAPI, Flask, React, Dapper, Alembic, Node.js / NPM
+*   **AI & Data Engineering:** PydanticAI, LanceDB (Vector DB), Scikit-learn, Pandas, NumPy, Matplotlib, Plotly, Seaborn, Streamlit, dbt, dltHub, DuckDB, Dagster, Snowflake, OpenAI API, Hugging Face
+*   **Cloud & DevOps:** Microsoft Azure (Azure Functions, AI Search, Blob Storage), Microsoft Fabric, Vercel, Docker, Nginx, WSL2, GitHub Actions (CI/CD)
+*   **Tools & Version Control:** Git, GitHub, Visual Studio, Visual Studio Code, Spyder IDE, DBeaver, SSMS
 
 ---
 
-## 📱 Contact
+## 🎵 Creative Tools (Music & Audio)
+*   Reaper DAW, Cubase DAW (Digital Audio Workstations for sound design and music production)
 
-- 📧 [Email](mailto:bjorn.stefan.lundberg@gmail.com)
-- 💼 [LinkedIn](https://www.linkedin.com/in/stefan-lundberg-30055584)
+---
+
+## 📱 Contact & Links
+*   📧 **Email:** [bjorn.stefan.lundberg@gmail.com](mailto:bjorn.stefan.lundberg@gmail.com)
+*   💼 **LinkedIn:** [linkedin.com/in/stefan-lundberg-30055584](https://www.linkedin.com/in/stefan-lundberg-30055584)
+*   🌐 **Portfolio Website:** [slundberg.com](https://slundberg.com)
